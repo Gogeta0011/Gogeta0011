@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Banner -->
-![github_banner_wave_fullname](https://github.com/user-attachments/assets/9379ce40-5b9e-4a5e-89fb-5a92611bcedc)
+![github_banner_final_redesign](https://github.com/user-attachments/assets/5244a4ba-685a-4340-a69b-4c819554a5fb)
+
 
 
 

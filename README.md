@@ -13,14 +13,46 @@
 <h3 align="left">Languages and Tools:</h3>
 ### 🛠️ Technical Skills
 
-| 💻 Languages | ⚙️ Frameworks |
-| :--- | :--- |
-| <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" width="40" height="40"/></a> &nbsp; <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/></a> &nbsp; <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" width="40" height="40"/></a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/></a> &nbsp; <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" height="40"/></a> | <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCV" width="40" height="40"/></a> &nbsp; <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" width="40" height="40"/></a> |
+<table width="100%">
+  <tr>
+    <th width="33%" align="center"><strong>💻 Languages</strong></th>
+    <th width="33%" align="center"><strong>⚙️ Frameworks</strong></th>
+    <th width="33%" align="center"><strong>🖥️ Web & OS</strong></th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="35" height="35"/></a>&nbsp;
+      <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="35" height="35"/></a>&nbsp;
+      <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="35" height="35"/></a>&nbsp;
+      <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="35" height="35"/></a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCV" width="35" height="35"/></a>&nbsp;
+      <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" width="35" height="35"/></a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="35" height="35"/></a>&nbsp;
+      <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" width="35" height="35"/></a>&nbsp;
+      <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="35" height="35"/></a>
+    </td>
+  </tr>
 
-| 🖥️ Operating Systems | 🌐 Web |
-| :--- | :--- |
-| <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/></a> &nbsp; <a href="https://getfedora.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" title="Fedora" width="40" height="40"/></a> &nbsp; <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows" width="40" height="40"/></a> | <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" width="40" height="40"/></a> &nbsp; <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" width="40" height="40"/></a> |
-
-| ☁️ Cloud & Databases | 🛠️ Tools |
-| :--- | :--- |
-| <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40" height="40"/></a> &nbsp; <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/></a> | <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="40" height="40"/></a> |
+  <tr>
+    <td colspan="3">
+      <table width="100%" border="0">
+        <tr>
+          <td align="left" style="border: none;"><strong>☁️ Cloud</strong></td>
+          <td align="right" style="border: none;"><strong>🗄️ Database</strong></td>
+        </tr>
+        <tr>
+          <td align="left" style="border: none;">
+            <a href="https://aws.amazon.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40" height="40"/></a>
+          </td>
+          <td align="right" style="border: none;">
+            <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/></a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>

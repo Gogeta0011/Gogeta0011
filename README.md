@@ -71,7 +71,7 @@ I'm a Computer Science graduate who developed an interest in technology through 
 </td>
 <td align="center" width="33%">
 
-### 🌟 Other Interests
+### 🌟 Other
 
 <p>
 <a href="https://getfedora.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="48"/></a>&nbsp;&nbsp;
@@ -83,8 +83,19 @@ I'm a Computer Science graduate who developed an interest in technology through 
 </table>
 
 ---
+### 🌐 Connect With Me
 
-## 📊 GitHub Stats
+<p align="center">
+<a href="https://github.com/Gogeta0011" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/yaseen0011" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:mir.yaseen29343@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail"/></a>&nbsp;&nbsp;
+<a href="https://discord.com/users/gogeta29343" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;&nbsp;
+<a href="https://instagram.com/yaseenalii03" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;&nbsp;
+<a href="https://www.leetcode.com/gogeta29343" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
+
+---
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gogeta0011&theme=dark&hide_border=true" alt="GitHub Streak" width="500"/>
@@ -93,29 +104,15 @@ I'm a Computer Science graduate who developed an interest in technology through 
 ---
 
 
-### 🌐 Connect With Me
-
-<p align="center">
-<a href="https://github.com/Gogeta0011" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/yaseen0011" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="mailto:mir.yaseen29343@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
-<a href="https://discord.com/users/gogeta29343" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;&nbsp;
-<a href="https://instagram.com/yaseenalii03" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;&nbsp;
-<a href="https://www.leetcode.com/gogeta29343" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-</p>
-
-
-<p align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 <p>
   <img src="https://komarev.com/ghpvc/?username=gogeta0011&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Infrastructure-brightgreen?style=for-the-badge" alt="Focus"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge" alt="Status"/>
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 </div>

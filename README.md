@@ -1,20 +1,19 @@
 <div align="center">
 
 <!-- Banner -->
-![github_banner_final_redesign](https://github.com/user-attachments/assets/5244a4ba-685a-4340-a69b-4c819554a5fb)
+![github_banner_contrast](https://github.com/user-attachments/assets/2b5c979b-1db1-416c-a39f-fb9c070785e8)
 
+<br>
 
-
-
-<br><br>
-
-## 🚀 About Me
+# 🚀 About Me
 
 I'm a Computer Science graduate who developed an interest in technology through curiosity and hands-on exploration. What began as learning about hardware and performance gradually evolved into a deeper interest in how software and systems are built and delivered. Over time, I became especially drawn to how modern applications operate at scale, how data is stored, how services communicate, and how systems remain reliable across different locations. I'm fascinated by the way a single computer can become a server, how multiple servers connect to form an infrastructure, and how that infrastructure can produce a global experience for users anywhere in the world. Today, cloud computing excites me because it brings together infrastructure, performance, security, and real-world problem solving in one space. I enjoy understanding how applications move from local code to globally accessible systems, and how thoughtful design can make them faster, safer, and more resilient. My goal is to grow into a cloud-focused engineering role where I can build dependable systems, continue learning, and contribute meaningful solutions in real-world environments.
-### Computer Science Graduate | Cloud Engineering Enthusiast | Problem Solver
----
+## Computer Science Graduate | Cloud Engineering Enthusiast | Problem Solver
 
-## 🧰 Tech Stack
+<br>
+
+# 🧰 Tech Stack
+
 
 <table align="center">
 <tr>
@@ -90,9 +89,8 @@ I'm a Computer Science graduate who developed an interest in technology through 
 </tr>
 </table>
 
----
-### 🌐 Connect With Me
 
+# 🌐 Connect With Me
 <p align="center">
 <a href="https://github.com/Gogeta0011" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/yaseen0011" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;

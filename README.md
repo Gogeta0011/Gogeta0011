@@ -1,5 +1,12 @@
 <div align="center">
 
+<!-- Banner -->
+![github_banner_wave_fullname](https://github.com/user-attachments/assets/9379ce40-5b9e-4a5e-89fb-5a92611bcedc)
+
+
+
+<br><br>
+
 ## 🚀 About Me
 
 I'm a Computer Science graduate who developed an interest in technology through curiosity and hands-on exploration. What began as learning about hardware and performance gradually evolved into a deeper interest in how software and systems are built and delivered. Over time, I became especially drawn to how modern applications operate at scale, how data is stored, how services communicate, and how systems remain reliable across different locations. I'm fascinated by the way a single computer can become a server, how multiple servers connect to form an infrastructure, and how that infrastructure can produce a global experience for users anywhere in the world. Today, cloud computing excites me because it brings together infrastructure, performance, security, and real-world problem solving in one space. I enjoy understanding how applications move from local code to globally accessible systems, and how thoughtful design can make them faster, safer, and more resilient. My goal is to grow into a cloud-focused engineering role where I can build dependable systems, continue learning, and contribute meaningful solutions in real-world environments.

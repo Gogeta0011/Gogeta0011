@@ -3,7 +3,6 @@
 <!-- Banner -->
 ![github_banner_contrast](https://github.com/user-attachments/assets/2b5c979b-1db1-416c-a39f-fb9c070785e8)
 
-<br>
 
 # 🚀 About Me
 

@@ -96,7 +96,7 @@ I'm a Computer Science graduate who developed an interest in technology through 
 <a href="mailto:mir.yaseen29343@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail"/></a>&nbsp;&nbsp;
 <a href="https://discord.com/users/gogeta29343" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;&nbsp;
 <a href="https://instagram.com/yaseenalii03" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;&nbsp;
-<a href="https://www.leetcode.com/gogeta29343" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="[https://www.leetcode.com/Gogeta29343](https://leetcode.com/u/Goku29343/)" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
 ---

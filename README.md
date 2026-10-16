@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Banner -->
-<image-card alt="github_banner_contrast" src="https://github.com/user-attachments/assets/2b5c979b-1db1-416c-a39f-fb9c070785e8" ></image-card>
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1F2A37,100:1F4E79&height=160&section=header&text=Mir%20Yaseen%20Ali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Graduate%20%C2%B7%20Python%20%C2%B7%20Java%20%C2%B7%20REST%20APIs&descAlignY=55&descSize=18)
 <h3>Computer Science Graduate &nbsp;·&nbsp; Python &nbsp;·&nbsp; Java &nbsp;·&nbsp; REST APIs</h3>
 <p>
   <a href="https://github.com/Gogeta0011"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;

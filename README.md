@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Banner -->
-![banner](https://raw.githubusercontent.com/Gogeta0011/Gogeta0011/main/banner.png)
+<image-card alt="github_banner_contrast" src="https://github.com/user-attachments/assets/2b5c979b-1db1-416c-a39f-fb9c070785e8" ></image-card>
 <h3>Computer Science Graduate &nbsp;·&nbsp; Python &nbsp;·&nbsp; Java &nbsp;·&nbsp; REST APIs</h3>
 <p>
   <a href="https://github.com/Gogeta0011"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;

@@ -9,13 +9,17 @@
   <a href="https://leetcode.com/u/Goku29343/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>&nbsp;
   <a href="https://discord.com/users/gogeta29343"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
----
-## 👋 About Me
-CS graduate based in Villa Park, Illinois. Authorized to work in the United States with no sponsorship required.
 
-I build and debug backend services in Python and Java, connect them to REST APIs and MySQL, and ship small projects end to end. Public work includes a hand-gesture pipeline, a Gmail receipt tracker, and a Java file-management service.
----
-## 🧰 Tech Stack
+<h2>👋 About Me</h2>
+<p>CS graduate based in Villa Park, Illinois. Authorized to work in the United States with no sponsorship required.</p>
+<p>I build and debug backend services in Python and Java, connect them to REST APIs and MySQL, and ship small projects end to end. Public work includes a hand-gesture pipeline, a Gmail receipt tracker, and a Java file-management service.</p>
+
+<h2>Projects</h2>
+<p><a href="https://github.com/Gogeta0011/Hand-Gestures"><strong>Hand-Gestures</strong></a> — Real-time hand tracking with Python, OpenCV, and MediaPipe. Kept processing above 30 FPS.</p>
+<p><a href="https://github.com/Gogeta0011/GmailBillTracker"><strong>GmailBillTracker</strong></a> — Pulls receipt data from the Gmail API with OAuth 2.0 and stores validated records.</p>
+<p><a href="https://github.com/Gogeta0011/Secure-File-Management"><strong>Secure-File-Management</strong></a> — Java Spring Boot service for file storage and access control, with MySQL.</p>
+
+<h2>🧰 Tech Stack</h2>
 <table align="center">
 <tr>
 <td align="center" width="33%">
@@ -70,8 +74,8 @@ I build and debug backend services in Python and Java, connect them to REST APIs
 </td>
 </tr>
 </table>
----
-## 📊 GitHub Stats
+
+<h2>📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gogeta0011&theme=dark&hide_border=true" width="500" alt="GitHub Streak"/>
 </p>
